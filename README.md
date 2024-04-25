@@ -14,9 +14,21 @@ A cybersecurity professional at a healthcare company regularly updates a file li
 
 ***Figure 1.** D.*
 
-[Add content here.]
+![alt text][figure2]
+
+[figure2]: https://github.com/averyth3archivist/SQLloginqueries/blob/7f416af7f8f001fb9868ca8ff8764db7893d147d/SQLfilters_Figure2.png "Figure 2"
+
+***Figure 2.** D.*
+
+
 ### Read the file contents
-[Add content here.]
+
+![alt text][figure3]
+
+[figure3]: https://github.com/averyth3archivist/SQLloginqueries/blob/7f416af7f8f001fb9868ca8ff8764db7893d147d/SQLfilters_Figure3.png "Figure 3"
+
+***Figure 3.** D.*
+
 ### Convert the string into a list
 [Add content here.]
 ### Iterate through the remove list
