@@ -2,7 +2,7 @@
 ## Portfolio Project from Google Cybersecurity Professional Certificate
 
 ### Project description
-As a healthcare company's security professional, I regularly updated a file listing employees authorized to access restricted content based on their handling of patient records. Access was restricted by IP address, with an allow list for permitted IPs and a remove list for exclusions. My task was to develop a Python algorithm to remove IPs listed on the remove list from the ```"allow_list.txt"```.
+As a fictitious healthcare company's security professional, I regularly updated a file listing employees authorized to access restricted content based on their handling of patient records. Access was restricted by IP address, with an allow list for permitted IPs and a remove list for exclusions. My task was to develop a Python algorithm to remove IPs listed on the remove list from the ```"allow_list.txt"```.
 
 
 ### Open the file that contains the allow list
